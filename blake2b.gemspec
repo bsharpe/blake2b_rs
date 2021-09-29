@@ -29,5 +29,5 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency 'thermite', '~> 0'
 
-  spec.add_dependency "ffi", "1.15.0"
+  spec.add_dependency "ffi", "~> 1.15.0"
 end
